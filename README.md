@@ -10,7 +10,7 @@ Run the script and follow the assistant:
 
 sudo wget https://git.io/vpn -O openvpn-install.sh && sudo bash openvpn-install.sh
 
-sudo cp /root/client.ovpn /notebooks/
+sudo cp /root/client.ovpn /home/paperspace/
 
 Once it ends, you can run it again to add more users, remove some of them or even completely uninstall OpenVPN.
 
